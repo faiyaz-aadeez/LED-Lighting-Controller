@@ -1,1 +1,1 @@
-# LED-Lightening-Controller
+# LED-Lighting-Controller
